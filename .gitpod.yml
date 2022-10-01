@@ -18,7 +18,7 @@ github:
 vscode:
   extensions:
     - https://github.com/merfu/gitpod_vs_extensions/raw/main/GitHub.copilot-1.46.6822.vsix
-    - hhttps://github.com/merfu/gitpod_vs_extensions/raw/main/snyk-security.snyk-vulnerability-scanner-1.5.2.vsix?raw=true
+    - https://github.com/merfu/gitpod_vs_extensions/raw/main/snyk-security.snyk-vulnerability-scanner-1.5.2.vsix
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
   - init: echo 'init script' # runs during prebuild

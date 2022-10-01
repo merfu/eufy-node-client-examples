@@ -5,3 +5,5 @@ credentials.json
 build
 *.log
 *.mp4
+awscliv2.zip
+aws
