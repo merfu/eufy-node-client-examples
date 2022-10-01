@@ -30,7 +30,7 @@ tasks:
       echo "[profile dev_sandbox]
       sso_start_url = https://glsgroup.awsapps.com/start/ 
       sso_region = eu-central-1 
-      sso_account_id = 487027663903 
+      sso_account_id =  
       sso_role_name = Administrator 
       region = eu-central-1 
       output = yaml
