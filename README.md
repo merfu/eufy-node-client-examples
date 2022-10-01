@@ -1,3 +1,5 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/merfu/eufy-node-client-examples/)
+
 # eufy-node-client-examples
 
 This repository shows how to use the [eufy-node-client](https://github.com/JanLoebel/eufy-node-client).
